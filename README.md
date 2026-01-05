@@ -1,157 +1,73 @@
-# 𝙳𝙰𝙽𝙳𝙾𝚁𝙰-𝚃𝙴𝙲𝙷
+# 🚀 FLASH-MD-V2: The Ultimate WhatsApp Bot
 
 <p align="center">
-  <a href="https://youtu.be/F3Cgi8ied1o">
-    <img alt="𝙳𝙰𝙽𝙳𝙾𝚁𝙰-𝚃𝙴𝙲𝙷 bug bot" height="300" src="https://n.uguu.se/tHKHnGQQ.mp4">
-  </a>
+  <img src="https://files.catbox.moe/c2jdkw.jpg" alt="FLASH-MD-V2 Banner" width="600"/>
 </p>
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Impact&size=50&pause=1000&color=FF5733&center=true&vCenter=true&width=910&height=100&lines=THIS+IS+𝙳𝙰𝙽𝙳𝙾𝚁𝙰-𝚃𝙴𝙲𝙷;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+Nkosi_dandora;PUBLIC+RELEASED+DATE;24/7" alt="Typing SVG" />
-  </a>
-  </p>
 
-<p align="center">
-  <a href="https://github.com/nkosinathi2013/---bug-bot">
-    <img alt="𝙳𝙰𝙽𝙳𝙾𝚁𝙰-𝚃𝙴𝙲𝙷 logo" height="200" src="https://n.uguu.se/tHKHnGQQ.mp4">
-  </a>
-</p>
-  
-</h1> 
-<p align="center">l introduce <b>Dullah-xmd</b>, a  simple WhatsApp bot Created By Dulla</p>
+**FLASH-MD-V2** is a powerful, fully customizable WhatsApp bot built with **Node.js** and the **WhatsApp Web API**. Automate tasks, manage groups, and enhance your WhatsApp experience with ease.
+## CONNECT TO WHATSAPP:
+- **STAR REPO AND THEN** [FORK IT](https://github.com/franceking1/Flash-Md-V2/fork) 
+- **GET SESSION ID USING** [FLASH-MD SESSIONS](https://fixed-seaaion.onrender.com) 
 
-</p>
-<p align="center"><img src="https://github.com/nkosinathi2013/---bug-bot/count.svg" alt="Dullah xmd :: Visitor's Count" /></p>
-
+- [**TRY VERSION 3 HERE**](https://host-flash-v3.onrender.com) Which doesn't require deployment. 
 ---
+### 🚀 Deployment Platforms:
 
-<p align="center">
-  <a href="https://github.com/nkosinathi2013/---bug-bot"><b>𝙳𝙰𝙽𝙳𝙾𝚁𝙰-𝚃𝙴𝙲𝙷 bug bot </b></a> Support Deploy On...
-</p>
-</a>
-  <div align="center">
-  <img src="https://spogit.vercel.app/api?theme=dark&black=true&scan=true" alt="Widget with the current Spotify song"  />
-</div>
-<p align="center">
-  <a href="https://n.uguu.se/tHKHnGQQ.mp4"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
-  <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fabdallahsalimjuma%2F𝙳𝙰𝙽𝙳𝙾𝚁𝙰-𝚃𝙴𝙲𝙷-%2Ftree%2Fmain"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
-  <a href="https://youtu.be/izoxfW3anrU"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
-</p>
+| **Platform**        | **Instructions** |
+|---------------------|------------------|
+| **Heroku**          | **Heroku deployment guide**:<br>1. Create an account on [Heroku](https://signup.heroku.com)<br>2. Add a credit card (required for deployment).<br>3. Click [RIGHT HERE](https://france-king.vercel.app/) to deploy FLASH-MD V2 instantly. |
+| **Render**          | 1. Sign up at [Render](https://render.com) & link GitHub.<br>2. Set Build Command as `npm install` & Start Command as `npm start`.<br>3. Deploy without session env first.<br>4. After first deploy, add `SESSION`, `YOUR_NUMBER`, and `YOUR_LID` to `.env`.<br>5. To keep it 24/7, add your Render app link to `.env`. |
+| **Koyeb**           | 1. Sign up at [Koyeb](https://www.koyeb.com) & link GitHub.<br>2. Set up environment variables: `YOUR_NUMBER`, `YOUR_LID`, `SESSION`.<br>3. Deploy using Node.js auto-detect. |
+| **Railway**         | 1. Sign up at [Railway](https://railway.app) & link GitHub.<br>2. Set Build Command as `npm install` & Start Command as `npm start`.<br>3. Add environment variables: `YOUR_NUMBER`, `YOUR_LID`, `SESSION`.<br>4. Deploy & your bot is live! |
+| **Bot-Hosting.net** | 1. **[DOWNLOAD THE ZIP HERE](https://github.com/franceking1/Flash-Md-V2/archive/refs/heads/main.zip)**.<br>2. Go to [Bot-Hosting.net](https://bot-hosting.net) and create a new Node.js app.<br>3. Upload and extract the ZIP contents.<br>4. Add environment variables: `SESSION`, `YOUR_NUMBER`, `YOUR_LID`.<br>5. Start your bot from the panel. |
+| **Optiklink.com**   | 1. **[DOWNLOAD THE ZIP HERE](https://github.com/franceking1/Flash-Md-V2/archive/refs/heads/main.zip)**.<br>2. Go to [Optiklink.com](https://optiklink.com) and create a Node.js project.<br>3. Upload and extract the ZIP.<br>4. Set `.env` values: `SESSION`, `YOUR_NUMBER`, `YOUR_LID`.<br>5. Start the bot via terminal or web console. |
+| **Termux**          | **Termux Setup Instructions**:<br>1. Install [Termux](https://f-droid.org/packages/com.termux/) on Android.<br>2. Clone the repo and navigate into the folder.<br>3. Install dependencies and run the bot with the commands below. |
 
+### 📚 TERMUX Setup Instructions:
 
-***For Developer Please Support Here🙏✔️***
-- <a href="https://www.instagram.com/dullahssalum"><img title="Author" src="https://img.shields.io/badge/ON INSTAGRAM-black?style=for-the-badge&logo=Instagram"></a>
-- <a href="https://www.tiktok.com/@dallas387"><img title="Author" src="https://img.shields.io/badge/ON TikTok-black?style=for-the-badge&logo=tiktok"></a>
-- <a
-href="https://www.facebook.com/100087010467670"><img title="Author" src="https://img.shields.io/badge/ON Facebook-blue?style=for-the-badge&logo=facebook"></a>
-- <a
-href="https://wa.me/27695667331"><img title="Author" src="https://img.shields.io/badge/ON WhatsApp-pupple?style=for-the-badge&logo=watsapp"></a>
-- <a href="https://whatsapp.com/channel/0029Vb7GqKHJP218Armkly0C"><img title="Author" src="https://img.shields.io/badge/ON Wa Group-green?style=for-the-badge&logo=watsapp"></a>
-- <a href="https://youtube.com/@herokuplatform?si=kl684fKNUpxTFig2"><img title="Author" src="https://img.shields.io/badge/ON YouTube-darkred?style=for-the-badge&logo=youtube"></a>
+#### 1. Clone the repository:
 
-    
+```bash
+git clone https://github.com/franceking1/FLASH-MD-V2.git
+```
+```bash
+cd FLASH-MD-V2
+```
+```bash
+npm install
+```
+```bash
+npm start
 
- 
-
-
-
+``` 
 ---
 
 
+### ⚠️ Warning
+
+- **Do NOT copy, modify, or redistribute** this bot without **proper permission**.
+- FLASH-MD-V2 is an **open-source project**, but it is protected by its license and community standards.
+- Give **proper credits** to the original authors and libraries used.
+- Any misuse or abuse of this bot is **strictly prohibited**.
+
+---
+***
+### HELP :
+**IF you need any help**
+- [**CLICK HERE**](https://messages-snowy.vercel.app)
+- [**Click here to send suggestions or queries**](https://suggestions-phi.vercel.app) 
 
 
+***
 
-## HOW TO DEPLOY 𝙳𝙰𝙽𝙳𝙾𝚁𝙰-𝚃𝙴𝙲𝙷 bug bot 👑
+### ⭐ Support This Project
 
+| **Action** | **Purpose** |
+|------------|-------------|
+| [Use This Template](https://github.com/franceking1/FLASH-MD-V2/generate) | Create your own working bot easily. Eg, for hosting on render ‼️ |
+| [Fork This Repo](https://github.com/franceking1/FLASH-MD-V2/fork) | Show your support and boost visibility |
 
-## 1.FIRST STEP
-## FORK MY 💥 REPO
+> Every ⭐ star and fork makes a big difference — thank you for supporting **FLASH-MD-V2**!
 
-
-<a href= "https://github.com/nkosinathi2013/---bug-bot/forks"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK REPO-h?color=brown&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
-
-star✨ my repo bruh don't forget please🤖
-
-
-## 2.SECOND STEP 
-
-
- GET SESSION ID BY
- 
-<a href="https://𝙳𝙰𝙽𝙳𝙾𝚁𝙰-𝚃𝙴𝙲𝙷scanner.onrender.com/qr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=brown&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
-
-
- 
-<a href="https://dullah-xmd-scanner-1.onrender.com"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=brown&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
-
-
-## 3.THIRD STEP 
-**1. If You Don't Have An Account On Heroku**
-- <a href="https://signup.heroku.com">
- <img src="https://img.shields.io/badge/Create%20Account%20Now-brown?style=for-the-badge&logo=heroku" width="100" height="38.45"/></a></p>
-
-**2. If You Have Account On Heroku**
-
-   ***[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dullah-xmd-website.vercel.app/)***
-
-<!-- DEPLOY ON RENDER -->
-
-<p><strong>• If you don't have an account on Render, create one and deploy.</strong></p>
-
-<a href="https://dashboard.render.com/github/exists?next=%2Fselect-repo%3Ftype%3Dweb%26appInstall%3D1" target="_blank">
-  <img alt="DEPLOY" src="https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white"/>
-</a>
-
-**•Koyeb and Render Deploy now available**
-
-_Termux Setup not recommended_
-
-**DEVELOPERS**
-
-<table>
-  <tr>
-    <td>nkosi_dandora</td>
-    <td>𝙳𝙰𝙽𝙳𝙾𝚁𝙰-𝚃𝙴𝙲𝙷</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/nkosinathi2013/---bug-bot"><img src="https://n.uguu.se/tHKHnGQQ.mp4" width="180"</td>
-    <td><a href="https://github.com/nkosinathi2013/---bug-bot"><img src="https://n.uguu.se/tHKHnGQQ.mp4="180"</td>
-  </tr>
-</table 
-
-
-CONTACT DEVELOPER ON WHATSAPP 
-
-<a href="https://wa.me/27695667331" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Dulla contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
- 
-<a href="https://whatsapp.com/channel/0029Vb7GqKHJP218Armkly0C" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/WhatsApp  Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
- 
-
-<img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-## License
-
-The WhatsApp Bot 𝙳𝙰𝙽𝙳𝙾𝚁𝙰-𝚃𝙴𝙲𝙷💫 is released under the [MIT License](https://opensource.org/licenses/MIT).
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-💫THANK YOU FOR CHOOSING Dullah Md💫
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
-## DEVELOPERS :
-         `nkosi_dandora`
-
-
-## ⚠️ Reminder
-
-- This bot has no issues on the WhatsApp side, and it works perfectly on my private free panel—100% safe and not banned. Use it for your WhatsApp activities and other things; it will help you a lot.
-.
-
-
-★EVERYTHING SAY THANK YOU TO GOD. ©
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-     
+> Powered by France King 
+---
